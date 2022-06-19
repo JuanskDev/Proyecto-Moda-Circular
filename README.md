@@ -16,8 +16,8 @@ los emoyis los podés copiar y pegar desde whastapp 😉 o desde aca https://emo
 ### Paginas de referencia que utilizamos:
 [Fue Mio](https://fuemio.com.ar/blog/tag/moda-circular/)
 [Circular Fashion](https://circular.fashion/en/)
-[The Rcollective] (https://thercollective.com)
-[Retykle] (https://retykle.com)
+[The R collective](https://thercollective.com))
+[Retykle](https://retykle.com)
 
 DEJO EL LINK DE TRELLO 
 https://trello.com/b/TqeBqDJ8/proyecto-paralelo
