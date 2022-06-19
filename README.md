@@ -3,19 +3,24 @@ Venta de ropa segunda mano
 
 **Nombre del proyecto**
 
-
 COMPLETAR 
 
 **Temática del Sitio**
-
 
 COMPLETAR
 
 **Integrantes del Grupo**
 
-Cincunegui Samantha
-Juan 
+Cincunegui Samantha 
+Scarafia Juan 
 
+### Paginas de referencia que utilizamos:
+[Fue Mio](https://fuemio.com.ar/blog/tag/moda-circular/)<br>
+[Circular Fashion](https://circular.fashion/en/)<br>
+[The R collective](https://thercollective.com)<br>
+[Retykle](https://retykle.com)
+
+[Trello](https://trello.com/b/TqeBqDJ8/proyecto-paralelo)
 
 
 
@@ -32,11 +37,4 @@ para negrita entre doble **
 así hasta el 6
 los emoyis los podés copiar y pegar desde whastapp 😉 o desde aca https://emojikeyboard.top/es/ 
 
-### Paginas de referencia que utilizamos:
-[Fue Mio](https://fuemio.com.ar/blog/tag/moda-circular/)<br>
-[Circular Fashion](https://circular.fashion/en/)<br>
-[The R collective](https://thercollective.com)<br>
-[Retykle](https://retykle.com)
 
-DEJO EL LINK DE TRELLO 
-https://trello.com/b/TqeBqDJ8/proyecto-paralelo
