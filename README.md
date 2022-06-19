@@ -1,13 +1,32 @@
 # Proyecto-Moda-Circular
 Venta de ropa segunda mano 
 
-Herramientas:
+**Nombre del proyecto**
+
+
+COMPLETAR 
+
+**Temática del Sitio**
+
+
+COMPLETAR
+
+**Integrantes del Grupo**
+
+Cincunegui Samantha
+Juan 
+
+
+
+
+Herramientas archivos .md:
 inicia con - para lista desordenada
 o n°. para lista ordenada
 Si querés poner los enlaces a las páginas como hipervínculo en lugar de pegarlo podés expresarlo así:
 [Casa Selvática](https://www.casaselvatica.com.ar/)
 con 3 guiones medios --- creas una líneas a lo ancho
 cursiva: encerrar con *
+para negrita entre doble **  
 # h1 
 ## h2 
 así hasta el 6
