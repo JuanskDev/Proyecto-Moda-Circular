@@ -1,18 +1,18 @@
 # Proyecto-Moda-Circular
-Venta de ropa segunda mano 
+Venta y alquiler de ropa de segunda mano.
 
 **Nombre del proyecto**
 
-COMPLETAR 
+R-Tik♻️
 
 **Temática del Sitio**
 
-COMPLETAR
+ Se trata ni más ni menos que de un nuevo paradigma en el consumo de moda, en el que el usuario tiene un rol activo y esencial. La moda circular promueve un consumo responsable en el que se busca reducir el deshecho y para ello, es indispensable reciclar y reutilizar la ropa. Nosotros estamos enfocados en la compra y venta , como el alquiler de ropa para bebes a niños de 1 hasta 7 años de edad.
 
 **Integrantes del Grupo**
 
-Cincunegui Samantha 
-Scarafia Juan 
+Cincunegui Samantha: Grosa!
+Scarafia Juan: Crack! 
 
 ### Paginas de referencia que utilizamos:
 [Fue Mio](https://fuemio.com.ar/blog/tag/moda-circular/)<br>
@@ -21,20 +21,5 @@ Scarafia Juan
 [Retykle](https://retykle.com)
 
 [Trello](https://trello.com/b/TqeBqDJ8/proyecto-paralelo)
-
-
-
-Herramientas archivos .md:
-inicia con - para lista desordenada
-o n°. para lista ordenada
-Si querés poner los enlaces a las páginas como hipervínculo en lugar de pegarlo podés expresarlo así:
-[Casa Selvática](https://www.casaselvatica.com.ar/)
-con 3 guiones medios --- creas una líneas a lo ancho
-cursiva: encerrar con *
-para negrita entre doble **  
-# h1 
-## h2 
-así hasta el 6
-los emoyis los podés copiar y pegar desde whastapp 😉 o desde aca https://emojikeyboard.top/es/ 
 
 
