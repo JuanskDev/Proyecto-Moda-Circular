@@ -19,7 +19,8 @@ Scarafia Juan: Crack!
 [Circular Fashion](https://circular.fashion/en/)<br>
 [The R collective](https://thercollective.com)<br>
 [Retykle](https://retykle.com)
-
+<div>
+  #Trello:
 [Trello](https://trello.com/b/TqeBqDJ8/proyecto-paralelo)
-
+</div>
 
