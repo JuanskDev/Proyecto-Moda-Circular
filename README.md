@@ -11,7 +11,7 @@ R-Tik♻️
 
 **Integrantes del Grupo**
 
-Cincunegui Samantha: Grosa!
+Cincunegui Samantha: Grosa!<Br>
 Scarafia Juan: Crack! 
 
 ### Paginas de referencia que utilizamos:
