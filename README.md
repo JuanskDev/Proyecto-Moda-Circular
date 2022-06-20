@@ -14,7 +14,7 @@ R-Tik♻️
 Cincunegui Samantha: Grosa!<Br>
 Scarafia Juan: Crack! 
 
-**Paginas de referencia que utilizamos:**
+**Paginas de referencia que utilizamos:**<br>
 [Fue Mio](https://fuemio.com.ar/blog/tag/moda-circular/)<br>
 [Circular Fashion](https://circular.fashion/en/)<br>
 [The R collective](https://thercollective.com)<br>
