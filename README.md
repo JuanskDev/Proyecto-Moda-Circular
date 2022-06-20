@@ -20,7 +20,7 @@ Scarafia Juan: Crack!
 [The R collective](https://thercollective.com)<br>
 [Retykle](https://retykle.com)
 
- ###Trello:
+### Trello:
 [Trello](https://trello.com/b/TqeBqDJ8/proyecto-paralelo)
 
 
